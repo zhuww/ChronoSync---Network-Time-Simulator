@@ -1,0 +1,5 @@
+{
+  "name": "ChronoSync - Network Time Simulator",
+  "description": "A visual simulator for Precision Time Protocol (PTP) and network synchronization, featuring real-time packet visualization and AI-powered educational insights.",
+  "requestFramePermissions": []
+}
